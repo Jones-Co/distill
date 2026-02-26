@@ -1,0 +1,18 @@
+{
+  "name": "rag-chatbot-backend",
+  "version": "1.0.0",
+  "description": "RAG-powered personal knowledge chatbot backend for Cloudflare Workers",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/knowledge-loader.js",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "test": "node test/run-all.js",
+    "test:retrieval": "node test/test-retrieval.js",
+    "test:ai": "node test/test-ai-integration.js"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

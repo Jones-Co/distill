@@ -1,0 +1,15 @@
+# CUSTOMIZE: Change the name to something unique for your project
+name = "my-rag-chatbot"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+ENVIRONMENT = "production"
+
+# KV namespace for rate limiting
+# SETUP: Create a KV namespace first:
+#   wrangler kv namespace create RATE_LIMIT
+# Then paste the ID below
+[[kv_namespaces]]
+binding = "RATE_LIMIT"
+id = "YOUR_KV_NAMESPACE_ID_HERE"

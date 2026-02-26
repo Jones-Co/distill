@@ -1,0 +1,22 @@
+# Project memory — contains session-specific decisions and internal notes
+PROJECT-MEMORY.json
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+templates/backend/src/knowledge-data.js
+
+# Environment and secrets
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
