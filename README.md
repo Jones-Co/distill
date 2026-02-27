@@ -19,21 +19,33 @@ The pipeline has three stages:
 **3. Deploy** — A Cloudflare Worker backend handles retrieval and AI response generation. A vanilla JS widget (zero dependencies, ~15KB) embeds on any website. Drop in a script tag and you're live.
 
 ## What It Looks Like
-
-![Chat widget on a live site](docs/images/distill-desktop-closed.png)
 *The widget sits unobtrusively on your site*
+<br>
+<img src="docs/images/distill-desktop-closed.png" width="50%" alt="Chat widget on a live site">
+<br><br>
 
-![Sample questions example](docs/images/distill-desktop-open.png)
 *Sample questions are provided to visitors to help get them started*
+<br>
+<img src="docs/images/distill-desktop-open.png" width="50%" alt="Sample questions example">
+<br><br>
 
-![Conversation example](docs/images/distill-desktop-conversation.png)
+
 *Visitors ask questions and get answers grounded in your knowledge base*
+<br>
+<img src="docs/images/distill-desktop-conversation.png" width="50%" alt="Conversation example">
+<br><br>
 
-![Mobile Example](docs/images/distill-mobile.png)
+
 *Configured to be mobile friendly*
+<br>
+<img src="docs/images/distill-mobile.png" width="35%" alt="Mobile Example">
+<br><br>
 
-![Open on Mobile example](docs/images/distill-mobile-open.png)
 *Approachable interface on mobile*
+<br>
+<img src="docs/images/distill-mobile-open.png" width="35%" alt="Open on Mobile example">
+<br><br>
+
 
 ## Project Structure
 
