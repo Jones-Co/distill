@@ -1,6 +1,9 @@
 # Project memory — contains session-specific decisions and internal notes
 PROJECT-MEMORY.json
 
+# Demo Guide Setup Instructions
+docs/DEMO-GUIDE.md
+
 # Dependencies
 node_modules/
 
