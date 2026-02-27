@@ -68,6 +68,6 @@ If you want to do a screen recording later, here's the flow that tells the best 
 3. **Show the answer** — let it stream in, pause so people can read (10 seconds)
 4. **Ask a follow-up** — show it handles conversation context (10 seconds)
 5. **Quick peek at the knowledge base** — switch to the JSONL file, scroll through a few entries (10 seconds)
-6. **Close** — "This is built with RAG Chatbot Builder. It's open source." (5 seconds)
+6. **Close** — "This is built with Distill. It's open source." (5 seconds)
 
 Total: ~50 seconds. Short enough for a GIF, long enough to be compelling.

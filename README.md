@@ -1,4 +1,4 @@
-# RAG Chatbot Builder
+# Distill
 
 Turn your career documents into an AI-powered chatbot that knows everything about you.
 

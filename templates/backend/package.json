@@ -1,5 +1,5 @@
 {
-  "name": "rag-chatbot-backend",
+  "name": "distill-backend",
   "version": "1.0.0",
   "description": "RAG-powered personal knowledge chatbot backend for Cloudflare Workers",
   "main": "src/index.js",

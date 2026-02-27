@@ -13,7 +13,7 @@ const suites = [
   'test-ai-integration.js'
 ];
 
-console.log('RAG Chatbot Builder — Test Suite');
+console.log('Distill — Test Suite');
 console.log('================================\n');
 
 let allPassed = true;

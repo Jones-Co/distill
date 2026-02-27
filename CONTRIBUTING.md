@@ -1,4 +1,4 @@
-# Contributing to RAG Chatbot Builder
+# Contributing to Distill
 
 Thanks for your interest in contributing! This project turns career documents into AI-powered chatbots, and we welcome help making it better.
 

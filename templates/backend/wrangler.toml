@@ -1,5 +1,5 @@
 # CUSTOMIZE: Change the name to something unique for your project
-name = "my-rag-chatbot"
+name = "my-distill-chatbot"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
