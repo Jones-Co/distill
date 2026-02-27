@@ -1,6 +1,6 @@
 # Distill
 
-Turn your career documents into an AI-powered chatbot that knows everything about you.
+Turn your career documents into an AI-powered chatbot that can answer questions about you and your career.
 
 ## What This Is
 
