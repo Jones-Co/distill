@@ -41,7 +41,6 @@ The pipeline has three stages:
 ├── docs/
 │   ├── SCHEMA.md              # JSONL knowledge base format specification
 │   ├── QUICKSTART.md          # Step-by-step setup guide
-│   └── DEMO-GUIDE.md          # Screenshot and demo capture guide
 ├── templates/
 │   ├── backend/               # Cloudflare Worker backend template
 │   │   ├── src/               # Worker source (router, retrieval, AI integration)
